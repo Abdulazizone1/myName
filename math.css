@@ -117,8 +117,7 @@ a:hover, a.active{
 #introduction p{
     flex: 1;
     font-size: 20px;
-    padding: 5px 30px;
-    padding-bottom: 3em;
+    padding: 5px 30px 3em 5px;
 }
 
 .side{
