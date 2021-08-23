@@ -110,11 +110,13 @@ a:hover, a.active{
     border-radius: 10px;
 }
 #introduction h3{
-    font-size: 30px;
+    dispaly: flex;
+    flex: 1;
     font-weight: normal;
     padding: 50px 50px 0;
 }
 #introduction p{
+    flex: 1;
     font-size: 20px;
     padding: 5px 30px;
 }
