@@ -109,7 +109,6 @@ a:hover, a.active{
     flex: 1;
     background: linear-gradient(rgb(219, 54, 42), rgb(4, 4, 150));
     border-radius: 10px;
-    height: 300px;
 }
 #introduction h3{
     font-weight: normal;
@@ -119,6 +118,7 @@ a:hover, a.active{
     flex: 1;
     font-size: 20px;
     padding: 5px 30px;
+    padding-bottom: 3em;
 }
 
 .side{
